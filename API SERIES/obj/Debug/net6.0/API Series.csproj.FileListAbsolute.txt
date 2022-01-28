@@ -1,0 +1,5 @@
+C:\Users\Bruno Souto\Documents\Dio\API Series\obj\Debug\net6.0\API Series.csproj.AssemblyReference.cache
+C:\Users\Bruno Souto\Documents\Dio\API Series\obj\Debug\net6.0\API Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Souto\Documents\Dio\API Series\obj\Debug\net6.0\API Series.AssemblyInfoInputs.cache
+C:\Users\Bruno Souto\Documents\Dio\API Series\obj\Debug\net6.0\API Series.AssemblyInfo.cs
+C:\Users\Bruno Souto\Documents\Dio\API Series\obj\Debug\net6.0\API Series.csproj.CoreCompileInputs.cache
